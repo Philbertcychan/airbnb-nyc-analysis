@@ -6,7 +6,7 @@ This project explores Airbnb listings in New York City, focusing on how prices v
 
 👉 [View the interactive Tableau dashboard](https://public.tableau.com/app/profile/philbert.chan/viz/NYCAirbnbAnalysisRoomTypePricingInsights/PriceLocation)
 
-<img src="visuals/dashboard-screenshot.png" alt="Airbnb Dashboard" width="800"/>
+<img src="Price & Location.png" alt="Airbnb Dashboard" width="800"/>
 
 ## 🔍 Key Insights
 - **Manhattan listings** are significantly more expensive and are mostly entire homes/apartments.
